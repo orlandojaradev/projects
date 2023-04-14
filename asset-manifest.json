@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/projects/static/css/main.2a5e7fd9.css",
+    "main.js": "/projects/static/js/main.72e01c5a.js",
+    "static/media/orlando-2.jpg": "/projects/static/media/orlando-2.852eb875ee11ec86c7a0.jpg",
+    "static/media/proyecto-noticias.png": "/projects/static/media/proyecto-noticias.27048e42331be3930359.png",
+    "static/media/CursoCSS.pdf": "/projects/static/media/CursoCSS.3d8ba4e40aa8d02b113e.pdf",
+    "static/media/CursoHTML.pdf": "/projects/static/media/CursoHTML.18ff920b23151862f5f6.pdf",
+    "static/media/proyecto-empleo.png": "/projects/static/media/proyecto-empleo.cc9ac1883c2fd7ec1f30.png",
+    "static/media/proyecto-card.png": "/projects/static/media/proyecto-card.916a47bef78ab05fd171.png",
+    "static/media/Javascript.png": "/projects/static/media/Javascript.ac9dfed8cc47aaf684f2.png",
+    "static/media/Responsive.png": "/projects/static/media/Responsive.64521b24ae84b6dcc472.png",
+    "index.html": "/projects/index.html",
+    "main.2a5e7fd9.css.map": "/projects/static/css/main.2a5e7fd9.css.map",
+    "main.72e01c5a.js.map": "/projects/static/js/main.72e01c5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a5e7fd9.css",
+    "static/js/main.72e01c5a.js"
+  ]
+}
