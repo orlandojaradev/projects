@@ -1,5 +1,5 @@
 //Iconos
-import { BsWhatsapp } from "react-icons/bs";
+import { AiOutlineMail } from "react-icons/ai";
 import { FaLinkedin } from "react-icons/fa";
 
 //Mi foto
@@ -110,11 +110,11 @@ function App() {
           <h3>CONTACTO</h3>
           <div className="contacto-iconos">
             <a
-              href="tel:+528443329867"
+              href="mailto:orlandojara92@outlook.com"
               rel="noreferrer noopener"
               target="_blank"
             >
-              <BsWhatsapp className="icono whatsapp" /> WhatsApp
+              <AiOutlineMail className="icono email" /> Email
             </a>
             <a
               href="https://mx.linkedin.com/in/orlandojaradev"
